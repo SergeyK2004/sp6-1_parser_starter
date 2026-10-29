@@ -21,7 +21,7 @@ function parsePrice(text) {
     };
 }
 
-// Помощник для getMeta(): значение атрибута content у мета-тега
+// Помощник для getMeta(): значение атрибута content у метатега
 function getMetaContent(selector) {
     return document.querySelector(selector).getAttribute('content');
 }

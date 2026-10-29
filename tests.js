@@ -6,7 +6,7 @@
 (function () {
     const CURRENCY_CODES = { '₽': 'RUB', '$': 'USD', '€': 'EUR' };
     const SECTIONS = {
-        meta: 'Мета-данные (meta)',
+        meta: 'Метаданные (meta)',
         product: 'Товар (product)',
         suggested: 'Дополнительные товары (suggested)',
         reviews: 'Отзывы (reviews)',
